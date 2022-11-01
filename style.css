@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+img {
+    max-width: 100%;
+    display:block;
+}
+
+.container{
+    width: 1280px;
+    max-width: 100%;
+    margin: 0 auto;
+}
+
+.back{
+    height: 730px;
+    background: url(img/fon7.jpg) no-repeat;
+
+}
